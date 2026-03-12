@@ -1,6 +1,6 @@
 # Description
 
-The specified script allows you to play church bells sounds on specific in-game hours. The sounds are realistic and not from the game sounds but through already added `.mp3` or `.ogg` files located on the `html` folder. You can also add your own sounds if you are interested freely. We provide you already (5) default church locations with configurations.
+The specified script allows you to play church bells sounds on specific in-game hours. The sounds are realistic and not from the game sounds but through the `interact-sound` script ( [Click Here To Download](https://github.com/Rexshack-RedM/interact-sound). You can also add your own sounds if you are interested freely. We provide you already (5) default church locations with configurations.
 
 `Coords` - This configuration option just requires a location `vector3` inside the church (anywhere), the point is mostly the `MaximumDistance` which is how close or far to play the sound.
 

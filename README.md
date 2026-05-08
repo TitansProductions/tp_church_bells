@@ -6,12 +6,12 @@ The specified script allows you to play church bells sounds on specific in-game 
 
 After downloading the interact-sound (if doesnt exist already), you have to place the given .ogg file that we provide you on the [extra] folder on the specified path: `interact-sound/client/html/sounds`
 
-# OTHER INFORMATION:
+## OTHER INFORMATION:
 
 `Coords` - This configuration option just requires a location `vector3` inside the church (anywhere), the point is mostly the `MaximumDistance` which is how close or far to play the sound.
 
 *This is a very unique script that was made personally for Daisy Town Roleplay server (Titans Productions Server).*
 
-# Installation
+## Installation
 
 When opening the zip file, open `tp_church_bells-main` directory folder and inside there will be another directory folder which is called as `tp_church_bells`, this directory folder is the one that should be exported to your resources (The folder which contains `fxmanifest.lua`).

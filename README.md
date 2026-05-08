@@ -8,4 +8,4 @@ The specified script allows you to play church bells sounds on specific in-game 
 
 # Installation
 
-When opening the zip file, open `tp_water_actions-main` directory folder and inside there will be another directory folder which is called as `tp_water_actions`, this directory folder is the one that should be exported to your resources (The folder which contains `fxmanifest.lua`).
+When opening the zip file, open `tp_church_bells-main` directory folder and inside there will be another directory folder which is called as `tp_church_bells`, this directory folder is the one that should be exported to your resources (The folder which contains `fxmanifest.lua`).
